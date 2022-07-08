@@ -4,6 +4,7 @@
  * Description: Carrousel d'images créé à partir d'une galerie d'images
  * Author: Mahdi NADIR
  * Plugin URI: https://github.com/MedyZeus
+ * SiteGround: https://eddym82.sg-host.com/
  */
 function carrousel_31w_enqueue()
 {
